@@ -1,6 +1,5 @@
 # 📊 **Contador de LED 5x5 com Pi Pico W**
 
-About
 Projeto utilizando as funções de botões, controle de LED, controle do painel de led WS2812, rotinas de interrupção, comunicação serial da RP2020 com UART e I2C e controle do display OLED SSD 1306, para a residência de Sistemas Embarcados TIC 37 - Embarcatech
 
 ---
